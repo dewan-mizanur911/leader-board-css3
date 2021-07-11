@@ -132,7 +132,10 @@ Media queries
     .top-players h2{
         color: white;
     }
-    .top-players,.top-blogs,.blog,.course-info{
+    .container h2{
+        text-align: center;
+    }
+    .top-players,.top-blogs,.blog,.course,.course-info{
         display: flex;
         flex-flow: column;
         align-items: center;
