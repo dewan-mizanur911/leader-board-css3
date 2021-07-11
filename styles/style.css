@@ -149,15 +149,11 @@ Media queries
     .container{
         width: 100%;
     }
-    .top-players{
-        background-color: tomato;
-    }
     .top-players h2{
+        background-color: tomato;
         color: white;
     }
     .players{
-        background-color: teal;
-        color: white;
         display: flex;
         flex-flow: column;
         align-items: center;
